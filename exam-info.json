@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "basis": "공식 원문 대조 2026-10-08 · status 가 verified 인 값만 화면에 표시 · 근거는 content/exam/README.md",
+  "updated": "2026-10-08",
+  "disclaimer": "정부와 관계없는 개인 개발 앱입니다. 최신 공고는 사이버국가고시센터·지방자치단체 인터넷원서접수센터에서 확인하세요.",
+  "calendar": [
+    {
+      "id": "gukga9-2027",
+      "name": "2027 국가직 9급 필기",
+      "date": null,
+      "status": "not_announced",
+      "expectedAnnounce": "2027-01",
+      "source": "인사혁신처 보도자료 「내년도 국가공무원 공채시험 일정 발표」(공개채용과 · 2025-11-06) — 전년도 일정은 11월 초 공개, 시험과목·선발인원은 1월 초 공고 · https://www.mpm.go.kr/mpm/comm/newsPress/newsPressRelease/?boardId=bbs_0000000000000029&mode=view&cntId=4149",
+      "note": "2026년 기준 관행: 일정 11월 초 발표 → 시행계획 1월 초 공고. 2027년도 일정은 2026-11 초에 먼저 나올 수 있다(추정)."
+    },
+    {
+      "id": "jibang9-2027",
+      "name": "2027 지방직 9급 필기",
+      "date": null,
+      "status": "not_announced",
+      "expectedAnnounce": "2027-01",
+      "source": null,
+      "note": "공고 시기 추정(공식 근거 미확인). 시·도별 공고 · local.gosi.go.kr"
+    },
+    {
+      "id": "gukga9-2026",
+      "name": "2026 국가직 9급 필기",
+      "date": "2026-04-04",
+      "status": "verified",
+      "source": "인사혁신처 보도자료 「내년도 국가공무원 공채시험 일정 발표」(공개채용과 · 2025-11-06) 「9급 필기시험은 4월 4일」 · https://www.mpm.go.kr/mpm/comm/newsPress/newsPressRelease/?boardId=bbs_0000000000000029&mode=view&cntId=4149",
+      "note": "지난 시험(참고). 시행계획 공고(제2026-1호)·장소 공고(제2026-173호) 원문은 gongmuwon.gosi.kr 점검 중이라 미대조."
+    },
+    {
+      "id": "jibang9-2026",
+      "name": "2026 지방직 9급 필기",
+      "date": "2026-06-20",
+      "status": "verified",
+      "source": "행정안전부 보도자료 「2026년 지방공무원 9급 공채 등 필기시험 6월 20일(토) 전국 동시 실시」(지방인사제도과 · 등록 2026-06-17) · https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=126921",
+      "note": "지난 시험(참고). 전국 17개 시도 동시 실시."
+    }
+  ],
+  "examFormat": [
+    {
+      "years": "2025~2026",
+      "subjects": [
+        "국어",
+        "영어",
+        "한국사",
+        "행정법총론",
+        "행정학개론"
+      ],
+      "subjectsNote": "일반행정 직류 기준 · 행정법총론·행정학개론 필수",
+      "questionsPerSubject": 20,
+      "totalQuestions": 100,
+      "minutes": 110,
+      "source": "과목: 공무원임용시험령 별표 1(대통령령 제36728호 · 시행 2026-10-02 · 법제처 DRF 조회 2026-10-08) · 문항: 정책브리핑 정책뉴스(행정안전부 · 2025-07-02) 「기존 20문항」 https://www.korea.kr/news/policyNewsView.do?newsId=148945321 · 110분: 정책브리핑 정책뉴스 「2027년도 9급 공채 시험 개편안 공개!」(인사혁신처 · 2025-07-03) 「현행(100문항, 110분)」「27년 이후(100문항, 110분)」 https://www.korea.kr/news/policyNewsView.do?newsId=148953239",
+      "status": "verified"
+    },
+    {
+      "years": "2027~",
+      "subjects": [
+        "국어",
+        "영어",
+        "행정법총론",
+        "행정학개론"
+      ],
+      "subjectsNote": "한국사 → 한국사능력검정시험 3급 이상으로 대체 · 일반행정 직류 기준",
+      "questionsPerSubject": 25,
+      "totalQuestions": 100,
+      "minutes": 110,
+      "koreanHistoryCert": "한국사능력검정시험 3급 이상",
+      "source": "한능검 대체·3급: 공무원임용시험령 제7조①3호라목·별표 4(대통령령 제35588호 2025-06-02 개정 · 부칙 제1조 시행 2027-01-01, 법제처 DRF) · 25문항·전문 40→50문항: 정책브리핑 정책뉴스(행정안전부 · 2025-07-02) https://www.korea.kr/news/policyNewsView.do?newsId=148945321 · 110분: 정책브리핑 정책뉴스 「2027년도 9급 공채 시험 개편안 공개!」(인사혁신처 · 2025-07-03) 「현행(100문항, 110분)」「27년 이후(100문항, 110분)」 https://www.korea.kr/news/policyNewsView.do?newsId=148953239",
+      "status": "verified"
+    }
+  ],
+  "checklist": [
+    {
+      "id": "admission-ticket",
+      "text": "응시표 출력해 지참",
+      "source": "인사혁신처 공고 제2026-173호 응시자 준수사항(원문 미대조 — gongmuwon.gosi.kr 점검 중)",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "id-card",
+      "text": "신분증 지참(인정 범위는 공고 확인)",
+      "source": "인사혁신처 공고 제2026-173호 응시자 준수사항(원문 미대조)",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "sign-pen",
+      "text": "컴퓨터용 흑색 사인펜 준비",
+      "source": "2차 자료: 서울신문 2021-01-06 인사혁신처 Q&A 보도 · 2026 공고 원문 미대조",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "correction-tape",
+      "text": "수정테이프는 허용 · 수정액·수정스티커는 금지",
+      "source": "2차 자료: 서울신문 2021-01-06 · 2026 공고 원문 미대조",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "no-pre-marking",
+      "text": "볼펜·연필로 예비 마킹하지 않기",
+      "source": "2차 자료: 서울신문 2021-01-06 · 2026 공고 원문 미대조",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "watch",
+      "text": "시계는 시각 표시 기능만 있는 것",
+      "source": "인사혁신처 공고 제2026-173호 응시자 준수사항(원문 미대조)",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "no-devices",
+      "text": "휴대전화 등 전자기기 소지 금지",
+      "source": "인사혁신처 공고 제2026-173호 응시자 준수사항(원문 미대조)",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "entry-time",
+      "text": "입실 마감 시각 확인",
+      "source": "인사혁신처 공고 제2026-173호(원문 미대조 — 시각 미확인)",
+      "status": "unverified",
+      "kind": "rule"
+    },
+    {
+      "id": "venue-check",
+      "text": "시험장 공고 확인(시험 약 1주 전)",
+      "source": "앱 안내 항목(규정 아님) · 제안서 §2-5",
+      "status": "verified",
+      "kind": "app"
+    }
+  ],
+  "links": [
+    {
+      "title": "국가공무원채용시스템(국가직 공고)",
+      "url": "https://gongmuwon.gosi.kr"
+    },
+    {
+      "title": "사이버국가고시센터",
+      "url": "https://www.gosi.kr"
+    },
+    {
+      "title": "지방자치단체 인터넷원서접수센터(지방직 공고)",
+      "url": "https://local.gosi.go.kr"
+    },
+    {
+      "title": "인사혁신처 국가공무원 공채 전체 일정",
+      "url": "https://www.mpm.go.kr/mpm/etc/yearlySchedule/"
+    }
+  ]
+}
